@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&height=60&lines=Hello+World!;I+have+a+dream..." alt="Hello World typing animation" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Full-Stack+Engineer+%7C+React%2C+Node%2C+MongoDB;Scaling+ideas+into+impactful+products.;Clean+code+.+Continuous+learning." alt="Typing animation" />
-</p>
-
 ---
 
 ## 🚀 Featured Projects
