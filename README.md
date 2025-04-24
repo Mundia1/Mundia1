@@ -1,7 +1,7 @@
 # Anderson Mundia | Full-Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&height=60&lines=Hello+World!;I+Welcome+to+my+Github..." alt="Hello World typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&height=60&lines=Jambo!;Welcome+to+my+Github..." alt="Hello World typing animation" />
 </p>
 
 ---
