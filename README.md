@@ -8,17 +8,17 @@
 
 ## 🚀 Featured Projects
 
-### 🎬 Movie Explorer  
-🔧 *React + TMDB API + Axios*  
-Find, explore & favorite movies with a clean UI and powerful search.
+### 🧭 Pokemon Explorer  
+🔧 *React + Poke API + Axios*  
+A modern React app to explore Pokémon data from PokéAPI. Browse Pokémon, their stats, abilities, moves, locations, items, and more — all in one place.
 
-[🔗 View Repo](https://github.com/Mundia1/movie-search-app) | 🌐 [Live Demo](#)
+[🔗 View Repo](https://github.com/Mundia1/pokemon-explorer) | 🌐 [Live Demo](https://pokemon-explorer-flax.vercel.app/)
 
 ### 🌐 Personal Portfolio  
 🖌️ *HTML + CSS*  
 My dev story, skills, and projects — brought to life.
 
-[🔗 View Repo](https://github.com/Mundia1/my-personal-portfolio) | 🌐 [Live Demo](#)
+[🔗 View Repo](https://github.com/Mundia1/my-personal-portfolio) | 🌐 [Live Demo](https://mundia1.github.io/my-personal-portfolio/)
 
 ---
 
