@@ -12,7 +12,7 @@
 🔧 *React + Poke API + Axios*  
 A modern React app to explore Pokémon data from PokéAPI. Browse Pokémon, their stats, abilities, moves, locations, items, and more — all in one place.
 
-[🔗 View Repo](https://github.com/Mundia1/pokemon-explorer) | 🌐 [Live Demo](https://pokemon-explorer-flax.vercel.app/)
+🌐 [Live Demo](https://pokemon-explorer-flax.vercel.app/)
 
 ### 🌐 Personal Portfolio  
 🖌️ *HTML + CSS*  
